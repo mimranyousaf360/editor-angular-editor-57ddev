@@ -1,0 +1,19 @@
+/* Add application styles & imports to this file! */
+/* // regular style toast */
+@import 'ngx-toastr/toastr';
+
+a {
+  font-size: 18px;
+  font-weight: bolder;
+}
+
+a:hover:active {
+  background-color: rgb(212, 218, 204);
+}
+/* .projectHeading {
+  background-color: #6000f0;
+} */
+
+
+
+
